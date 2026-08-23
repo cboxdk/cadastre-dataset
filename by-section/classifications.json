@@ -1,0 +1,474 @@
+{
+    "classifications": [
+        {
+            "scheme": "cpa",
+            "code": "100_YEARS_OLD",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "ACCOMMODATION",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "ADMISSION_SPORTING_EVENTS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "AGRICULTURAL_EQUIPMENT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "AGRICULTURAL_PRODUCTION",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "ANTIQUES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "BICYCLES_ELECTRIC",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "BICYCLES_RENTAL",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "BICYCLES_REPAIR",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "BODY_CARE_SERVICES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "BOOKS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "BROADCASTING_SERVICES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CERAMICS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CERTAIN_AGRICULTURAL_INPUT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CERTAIN_BROADCASTING_SERVICES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CHEMICAL_FERTILISERS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CHEMICAL_PESTICIDES_ENVIRONMENT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CHILDREN_CAR_SEATS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CHILD_WEAR",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CLEANING_PRODUCT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CLOTHING_REPAIR",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CONSTRUCTION",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CREDIT_MANAGEMENT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "CULTURAL_EVENTS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "DOMESTIC_CARE",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "ENAMELS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "EVENT_ACCESS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "EXEMPTION_SUPERREDUCED",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "FOODSTUFFS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "FOOD_SERVICE",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "FOSSIL_FUEL",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "FUEL_MINERAL_OIL",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "FUNERAL",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "GREENHOUSE_GAS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "HAIRDRESSING",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "HEAT_COOLING_STEAM",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "HIRING_SHORT_PERIOD",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "HOLIDAY_ACCOMMODATION",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "HOUSEHOLD",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "HOUSING_PROVISION",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "IMPRESSIONS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "LIVE_EQUINES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "LOAN_LIBRARIES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "MEDICAL_CARE",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "MEDICAL_EQUIPMENT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "NEWSPAPERS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "NEW_PARKING_RATE",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "NON_OWNED_RESIDENCY_RENOVATION",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "PARKING",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "PERIODICALS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "PHARMACEUTICAL_PRODUCTS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "PHOTOGRAPHS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "PICTURES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "PLANT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "POSTAGE",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "PRINTED_ADVERTISING_MATERIAL",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "PRIVATE_DWELLINGS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "RENOVATION",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "RESCUE_EQUIPMENT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "RESIDENTIAL_RENOVATION",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "RESTAURANT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "ROYALTIES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SCULPTURES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SCULPTURE_CASTS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SECURITY_MANAGEMENT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SHOES_REPAIR",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SOCIAL_WELLBEING",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SOLAR_PANELS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SPORTING_EVENTS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SPORTING_FACILITIES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SPORTING_FACILITY_ACCESS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "STREET_CLEANING",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SUPER_TEMPORARY",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SUPPLY_ELECTRICITY",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SUPPLY_GAS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SUPPLY_HEATING",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SUPPLY_WATER",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "SUSTAINABLE_ENERGY",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "TAPESTRIES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "TEMPORARY",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "TEMPORARY_EXEMPTION_RATE",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "THEATRE_PERFORMANCES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "TRANSPORT_PASSENGERS",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "UNDERTAKERS_SERVICES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "WASTE_TREATMENT",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "WASTE_TREATMENT_REFUSAL",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "WINDOW_CLEANING",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "WINE_FRESH_GRAPE",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "WOOD",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "WOOD_ARTICLE98",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "WRITERS_SERVICES",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "ZERO_RATE",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "ZERO_REDUCED_RATE",
+            "label": null
+        },
+        {
+            "scheme": "cpa",
+            "code": "ZOOLOGICAL",
+            "label": null
+        }
+    ]
+}

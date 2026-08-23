@@ -1,0 +1,1278 @@
+{
+    "jurisdictions": [
+        {
+            "code": "eu:AT",
+            "name": "AT",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "AT",
+            "sourceCode": "AT",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:BE",
+            "name": "BE",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "BE",
+            "sourceCode": "BE",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:BG",
+            "name": "BG",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "BG",
+            "sourceCode": "BG",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:CY",
+            "name": "CY",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "CY",
+            "sourceCode": "CY",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:CZ",
+            "name": "CZ",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "CZ",
+            "sourceCode": "CZ",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:DE",
+            "name": "DE",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "DE",
+            "sourceCode": "DE",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:DK",
+            "name": "Denmark",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "DK",
+            "sourceCode": "DK",
+            "provenance": null
+        },
+        {
+            "code": "eu:EE",
+            "name": "EE",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "EE",
+            "sourceCode": "EE",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:ES",
+            "name": "ES",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "ES",
+            "sourceCode": "ES",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:FI",
+            "name": "FI",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "FI",
+            "sourceCode": "FI",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:FR",
+            "name": "FR",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "FR",
+            "sourceCode": "FR",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:GR",
+            "name": "GR",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "GR",
+            "sourceCode": "GR",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:HR",
+            "name": "HR",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "HR",
+            "sourceCode": "HR",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:HU",
+            "name": "HU",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "HU",
+            "sourceCode": "HU",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:IE",
+            "name": "IE",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "IE",
+            "sourceCode": "IE",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:IT",
+            "name": "IT",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "IT",
+            "sourceCode": "IT",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:LT",
+            "name": "LT",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "LT",
+            "sourceCode": "LT",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:LU",
+            "name": "LU",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "LU",
+            "sourceCode": "LU",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:LV",
+            "name": "LV",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "LV",
+            "sourceCode": "LV",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:MT",
+            "name": "MT",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "MT",
+            "sourceCode": "MT",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:NL",
+            "name": "NL",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "NL",
+            "sourceCode": "NL",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:PL",
+            "name": "PL",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "PL",
+            "sourceCode": "PL",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:PT",
+            "name": "PT",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "PT",
+            "sourceCode": "PT",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:PT:PT-20",
+            "name": "Azores",
+            "level": "territory",
+            "parent": "eu:PT",
+            "inTaxArea": true,
+            "isoCode": "PT-20",
+            "sourceCode": "PT-20",
+            "provenance": {
+                "source": "eu-tax-dataset-territories",
+                "snapshot": "91843b424974d9660965122d93783ea4c731426bc878ad02bb870d4a982ad88b",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/territories.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:PT:PT-30",
+            "name": "Madeira",
+            "level": "territory",
+            "parent": "eu:PT",
+            "inTaxArea": true,
+            "isoCode": "PT-30",
+            "sourceCode": "PT-30",
+            "provenance": {
+                "source": "eu-tax-dataset-territories",
+                "snapshot": "91843b424974d9660965122d93783ea4c731426bc878ad02bb870d4a982ad88b",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/territories.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:RO",
+            "name": "RO",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "RO",
+            "sourceCode": "RO",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:SE",
+            "name": "SE",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "SE",
+            "sourceCode": "SE",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:SI",
+            "name": "SI",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "SI",
+            "sourceCode": "SI",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "eu:SK",
+            "name": "SK",
+            "level": "country",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "SK",
+            "sourceCode": "SK",
+            "provenance": {
+                "source": "eu-tax-dataset",
+                "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:AK",
+            "name": "AK",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-AK",
+            "sourceCode": "US-AK",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:AL",
+            "name": "AL",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-AL",
+            "sourceCode": "US-AL",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:AR",
+            "name": "AR",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-AR",
+            "sourceCode": "US-AR",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:AZ",
+            "name": "AZ",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-AZ",
+            "sourceCode": "US-AZ",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:CA",
+            "name": "CA",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-CA",
+            "sourceCode": "US-CA",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:CO",
+            "name": "CO",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-CO",
+            "sourceCode": "US-CO",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:CT",
+            "name": "CT",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-CT",
+            "sourceCode": "US-CT",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:DC",
+            "name": "DC",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-DC",
+            "sourceCode": "US-DC",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:DE",
+            "name": "DE",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-DE",
+            "sourceCode": "US-DE",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:FL",
+            "name": "FL",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-FL",
+            "sourceCode": "US-FL",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:GA",
+            "name": "GA",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-GA",
+            "sourceCode": "US-GA",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:HI",
+            "name": "HI",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-HI",
+            "sourceCode": "US-HI",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:IA",
+            "name": "IA",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-IA",
+            "sourceCode": "US-IA",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:ID",
+            "name": "ID",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-ID",
+            "sourceCode": "US-ID",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:IL",
+            "name": "IL",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-IL",
+            "sourceCode": "US-IL",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:IN",
+            "name": "IN",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-IN",
+            "sourceCode": "US-IN",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:KS",
+            "name": "KS",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-KS",
+            "sourceCode": "US-KS",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:KY",
+            "name": "KY",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-KY",
+            "sourceCode": "US-KY",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:LA",
+            "name": "LA",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-LA",
+            "sourceCode": "US-LA",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:MA",
+            "name": "MA",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-MA",
+            "sourceCode": "US-MA",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:MD",
+            "name": "MD",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-MD",
+            "sourceCode": "US-MD",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:ME",
+            "name": "ME",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-ME",
+            "sourceCode": "US-ME",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:MI",
+            "name": "MI",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-MI",
+            "sourceCode": "US-MI",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:MN",
+            "name": "MN",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-MN",
+            "sourceCode": "US-MN",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:MO",
+            "name": "MO",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-MO",
+            "sourceCode": "US-MO",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:MS",
+            "name": "MS",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-MS",
+            "sourceCode": "US-MS",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:MT",
+            "name": "MT",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-MT",
+            "sourceCode": "US-MT",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:NC",
+            "name": "NC",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-NC",
+            "sourceCode": "US-NC",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:ND",
+            "name": "ND",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-ND",
+            "sourceCode": "US-ND",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:NE",
+            "name": "NE",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-NE",
+            "sourceCode": "US-NE",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:NH",
+            "name": "NH",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-NH",
+            "sourceCode": "US-NH",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:NJ",
+            "name": "NJ",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-NJ",
+            "sourceCode": "US-NJ",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:NM",
+            "name": "NM",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-NM",
+            "sourceCode": "US-NM",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:NV",
+            "name": "NV",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-NV",
+            "sourceCode": "US-NV",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:NY",
+            "name": "NY",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-NY",
+            "sourceCode": "US-NY",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:OH",
+            "name": "OH",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-OH",
+            "sourceCode": "US-OH",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:OK",
+            "name": "OK",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-OK",
+            "sourceCode": "US-OK",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:OR",
+            "name": "OR",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-OR",
+            "sourceCode": "US-OR",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:PA",
+            "name": "PA",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-PA",
+            "sourceCode": "US-PA",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:RI",
+            "name": "RI",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-RI",
+            "sourceCode": "US-RI",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:SC",
+            "name": "SC",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-SC",
+            "sourceCode": "US-SC",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:SD",
+            "name": "SD",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-SD",
+            "sourceCode": "US-SD",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:TN",
+            "name": "TN",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-TN",
+            "sourceCode": "US-TN",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:TX",
+            "name": "TX",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-TX",
+            "sourceCode": "US-TX",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:UT",
+            "name": "UT",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-UT",
+            "sourceCode": "US-UT",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:VA",
+            "name": "VA",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-VA",
+            "sourceCode": "US-VA",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:VT",
+            "name": "VT",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-VT",
+            "sourceCode": "US-VT",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:WA",
+            "name": "WA",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-WA",
+            "sourceCode": "US-WA",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:WI",
+            "name": "WI",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-WI",
+            "sourceCode": "US-WI",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:WV",
+            "name": "WV",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-WV",
+            "sourceCode": "US-WV",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "code": "us:WY",
+            "name": "WY",
+            "level": "state",
+            "parent": null,
+            "inTaxArea": true,
+            "isoCode": "US-WY",
+            "sourceCode": "US-WY",
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        }
+    ]
+}

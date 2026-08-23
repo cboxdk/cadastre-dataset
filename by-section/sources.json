@@ -1,0 +1,60 @@
+{
+    "sources": [
+        {
+            "key": "eu-tax-dataset",
+            "name": "EU VAT dataset (compiled)",
+            "region": "eu",
+            "authority": "European Commission, via the eu-tax-data pipeline",
+            "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
+            "precedence": 100,
+            "contributed": {
+                "jurisdictions": 27,
+                "rates": 7065,
+                "rules": 0,
+                "classifications": 94
+            }
+        },
+        {
+            "key": "us-tax-dataset",
+            "name": "US sales tax dataset (compiled)",
+            "region": "us",
+            "authority": "State revenue departments and SST, via the us-tax-data pipeline",
+            "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+            "precedence": 100,
+            "contributed": {
+                "jurisdictions": 51,
+                "rates": 47,
+                "rules": 139,
+                "classifications": 0
+            }
+        },
+        {
+            "key": "eu-tax-dataset-territories",
+            "name": "EU territories with their own VAT treatment",
+            "region": "eu",
+            "authority": "Member state tax authorities, via the eu-tax-data pipeline",
+            "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/territories.json",
+            "precedence": 110,
+            "contributed": {
+                "jurisdictions": 2,
+                "rates": 9,
+                "rules": 0,
+                "classifications": 0
+            }
+        },
+        {
+            "key": "dk-momsloven",
+            "name": "Denmark — momsloven",
+            "region": "eu",
+            "authority": "Momsloven (lovbekendtgørelse nr. 209 af 27. februar 2023)",
+            "url": "https://www.retsinformation.dk/eli/lta/2023/209",
+            "precedence": 200,
+            "contributed": {
+                "jurisdictions": 1,
+                "rates": 2,
+                "rules": 0,
+                "classifications": 1
+            }
+        }
+    ]
+}

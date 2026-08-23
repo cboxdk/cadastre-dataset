@@ -1,0 +1,23 @@
+{
+    "schemaVersion": "1.0.0",
+    "version": "2026.08.23-3",
+    "contentHash": "77d133e617505994bf5f31417c5a0857198c0c0379900090b4a19c350da61ff4",
+    "publishedAt": "2026-08-23T08:21:08+00:00",
+    "counts": {
+        "jurisdictions": 80,
+        "rates": 7123,
+        "rules": 139,
+        "classifications": 94,
+        "sources": 4
+    },
+    "files": [
+        "cadastre.json",
+        "by-region/eu.json",
+        "by-region/us.json",
+        "by-section/jurisdictions.json",
+        "by-section/rates.json",
+        "by-section/rules.json",
+        "by-section/classifications.json",
+        "by-section/sources.json"
+    ]
+}

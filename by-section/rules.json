@@ -1,0 +1,2600 @@
+{
+    "rules": [
+        {
+            "jurisdiction": "us:AK",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:AK",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:AL",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-01-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:AL",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:AL",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "250000",
+                "currency": "USD",
+                "measuredOver": "previous_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:AR",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:AR",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:AR",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:AZ",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "origin"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:AZ",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:CA",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:CA",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "mixed"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:CA",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "500000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:CO",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:CO",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:CO",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:CT",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2018-12-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:CT",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:CT",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "rolling_twelve_months"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:DC",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-04-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:DC",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:DC",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:FL",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2021-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:FL",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:FL",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:GA",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2020-04-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:GA",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:GA",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:HI",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2020-01-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:HI",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:HI",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:IA",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-01-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:IA",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:IA",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:ID",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-06-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:ID",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:ID",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:IL",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2020-01-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:IL",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "mixed"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:IL",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "rolling_twelve_months"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:IN",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:IN",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:IN",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:KS",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2021-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:KS",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:KS",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:KY",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:KY",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:KY",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-01",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:LA",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2020-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:LA",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:LA",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MA",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MA",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MA",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MD",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MD",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MD",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:ME",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:ME",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:ME",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MI",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2020-01-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MI",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MI",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MN",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2018-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MN",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MN",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "rolling_twelve_months"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MO",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2023-01-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MO",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "origin"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MO",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "rolling_twelve_months"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MS",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2020-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MS",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "origin"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:MS",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "250000",
+                "currency": "USD",
+                "measuredOver": "rolling_twelve_months"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NC",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2020-02-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NC",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NC",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:ND",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:ND",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:ND",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NE",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-04-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NE",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NE",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NJ",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2018-11-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NJ",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NJ",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NM",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NM",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NM",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NV",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NV",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NV",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NY",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-06-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NY",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:NY",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "500000",
+                "currency": "USD",
+                "measuredOver": "rolling_twelve_months"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:OH",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-09-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:OH",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "origin"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:OH",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:OK",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2018-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:OK",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:OK",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:PA",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2018-04-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:PA",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "origin"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:PA",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "unspecified"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:RI",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:RI",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:RI",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:SC",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2018-11-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:SC",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:SC",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:SD",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-03-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:SD",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:SD",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:TN",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2020-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:TN",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "origin"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:TN",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "rolling_twelve_months"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:TX",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:TX",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "origin"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:TX",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "500000",
+                "currency": "USD",
+                "measuredOver": "rolling_twelve_months"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:UT",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-10-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:UT",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "origin"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:UT",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:VA",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:VA",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "origin"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:VA",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:VT",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-06-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:VT",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:VT",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "rolling_twelve_months"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WA",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2018-01-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WA",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WA",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WI",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2020-01-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WI",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WI",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WV",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WV",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WV",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WY",
+            "kind": "marketplace_facilitator",
+            "effective": {
+                "from": "2019-07-01",
+                "until": null
+            },
+            "payload": {
+                "platformOwes": true
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WY",
+            "kind": "sourcing",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "basis": "destination"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        },
+        {
+            "jurisdiction": "us:WY",
+            "kind": "threshold",
+            "effective": {
+                "from": "2026-08-16",
+                "until": null
+            },
+            "payload": {
+                "amount": "100000",
+                "currency": "USD",
+                "measuredOver": "previous_or_current_calendar_year"
+            },
+            "provenance": {
+                "source": "us-tax-dataset",
+                "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
+                "capturedAt": "2026-08-23T07:04:37+00:00",
+                "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
+                "note": null
+            }
+        }
+    ]
+}
