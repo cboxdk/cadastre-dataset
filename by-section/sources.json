@@ -11,7 +11,8 @@
                 "jurisdictions": 27,
                 "rates": 7065,
                 "rules": 0,
-                "classifications": 94
+                "classifications": 94,
+                "skipped": 0
             }
         },
         {
@@ -25,7 +26,8 @@
                 "jurisdictions": 51,
                 "rates": 47,
                 "rules": 139,
-                "classifications": 0
+                "classifications": 0,
+                "skipped": 4
             }
         },
         {
@@ -39,7 +41,8 @@
                 "jurisdictions": 2,
                 "rates": 9,
                 "rules": 0,
-                "classifications": 0
+                "classifications": 0,
+                "skipped": 0
             }
         },
         {
@@ -53,7 +56,8 @@
                 "jurisdictions": 1,
                 "rates": 2,
                 "rules": 0,
-                "classifications": 1
+                "classifications": 1,
+                "skipped": 0
             }
         }
     ]

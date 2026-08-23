@@ -11,7 +11,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -27,7 +27,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -43,7 +43,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -59,7 +59,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -75,7 +75,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -91,7 +91,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -104,7 +104,13 @@
             "inTaxArea": true,
             "isoCode": "DK",
             "sourceCode": "DK",
-            "provenance": null
+            "provenance": {
+                "source": "dk-momsloven",
+                "snapshot": "8ac1262dfbd39116fbc0c51064609e59ace3bd368a1be3adee29e58ff3f30263",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
+                "url": "https://www.retsinformation.dk/eli/lta/2023/209",
+                "note": "Momsloven (lovbekendtgørelse nr. 209 af 27. februar 2023)"
+            }
         },
         {
             "code": "eu:EE",
@@ -117,7 +123,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -133,7 +139,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -149,7 +155,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -165,7 +171,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -181,7 +187,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -197,7 +203,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -213,7 +219,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -229,7 +235,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -245,7 +251,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -261,7 +267,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -277,7 +283,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -293,7 +299,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -309,7 +315,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -325,7 +331,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -341,7 +347,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -357,7 +363,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -373,7 +379,7 @@
             "provenance": {
                 "source": "eu-tax-dataset-territories",
                 "snapshot": "91843b424974d9660965122d93783ea4c731426bc878ad02bb870d4a982ad88b",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/territories.json",
                 "note": null
             }
@@ -389,7 +395,7 @@
             "provenance": {
                 "source": "eu-tax-dataset-territories",
                 "snapshot": "91843b424974d9660965122d93783ea4c731426bc878ad02bb870d4a982ad88b",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/territories.json",
                 "note": null
             }
@@ -405,7 +411,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -421,7 +427,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -437,7 +443,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -453,7 +459,7 @@
             "provenance": {
                 "source": "eu-tax-dataset",
                 "snapshot": "de8943534b49275a28b3d8b5945c07e133efcf2e41cdf5bb6301651c2f2881fc",
-                "capturedAt": "2026-08-23T08:25:55+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/eu-tax-dataset/main/by-section/rates.json",
                 "note": null
             }
@@ -469,7 +475,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -485,7 +491,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -501,7 +507,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -517,7 +523,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -533,7 +539,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -549,7 +555,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -565,7 +571,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -581,7 +587,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -597,7 +603,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -613,7 +619,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -629,7 +635,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -645,7 +651,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -661,7 +667,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -677,7 +683,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -693,7 +699,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -709,7 +715,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -725,7 +731,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -741,7 +747,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -757,7 +763,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -773,7 +779,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -789,7 +795,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -805,7 +811,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -821,7 +827,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -837,7 +843,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -853,7 +859,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -869,7 +875,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -885,7 +891,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -901,7 +907,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -917,7 +923,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -933,7 +939,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -949,7 +955,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -965,7 +971,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -981,7 +987,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -997,7 +1003,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1013,7 +1019,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1029,7 +1035,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1045,7 +1051,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1061,7 +1067,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1077,7 +1083,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1093,7 +1099,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1109,7 +1115,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1125,7 +1131,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1141,7 +1147,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1157,7 +1163,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1173,7 +1179,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1189,7 +1195,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1205,7 +1211,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1221,7 +1227,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1237,7 +1243,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1253,7 +1259,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
@@ -1269,7 +1275,7 @@
             "provenance": {
                 "source": "us-tax-dataset",
                 "snapshot": "91b5e5f51748173e134e9ec35097896fef8295b919c1d2e1e8b2ddb73a284610",
-                "capturedAt": "2026-08-23T08:25:56+00:00",
+                "capturedAt": "2026-08-23T10:08:15+00:00",
                 "url": "https://raw.githubusercontent.com/cboxdk/us-tax-dataset/main/us-tax-dataset.json",
                 "note": null
             }
