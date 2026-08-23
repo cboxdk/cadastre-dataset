@@ -1,8 +1,8 @@
 {
     "schemaVersion": "1.0.0",
-    "version": "2026.08.23-3",
-    "contentHash": "77d133e617505994bf5f31417c5a0857198c0c0379900090b4a19c350da61ff4",
-    "publishedAt": "2026-08-23T08:21:08+00:00",
+    "version": "2026.08.23-2",
+    "contentHash": "314df59b51b28f75a7fb893b634494e6fb804db721c1d318055032199df0aca8",
+    "publishedAt": "2026-08-23T09:25:07+00:00",
     "counts": {
         "jurisdictions": 80,
         "rates": 7123,
